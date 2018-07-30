@@ -10,6 +10,7 @@ namespace csT
 
         public string TMInputArray(int[] InputDados, int k)
         {
+
             string Output = string.Empty;
             List<string> Output2 = new List<string>();
 
@@ -28,20 +29,20 @@ namespace csT
                 }
             }
 
-            Output2.Reverse();
+            //Output2.Reverse();
 
-            foreach (var item in Output2)
-            {
-                if (Output == "")
-                {
-                    Output = item;
-                }
-                else
-                {
-                    Output += "," + item;
-                }
+            //foreach (var item in Output2)
+            //{
+            //    if (Output == "")
+            //    {
+            //        Output = item;
+            //    }
+            //    else
+            //    {
+            //        Output += "," + item;
+            //    }
 
-            }
+            //}
 
             return Output;
         }
