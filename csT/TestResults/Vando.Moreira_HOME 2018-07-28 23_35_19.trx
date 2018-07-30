@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4f7309ea-51ae-4d56-a1de-91ef2f771bf6" name="Vando.Moreira@HOME 2018-07-28 23:35:19" runUser="Home\Vando.Moreira" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5e1a744f-c084-4377-9e89-f7d931b07561">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Vando.Moreira_HOME 2018-07-28 23_35_19">
+      <DeploymentItem filename="c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\bin\Debug\csT.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-07-28T23:35:19.5435389+01:00" queuing="2018-07-28T23:35:19.5565397+01:00" start="2018-07-28T23:35:19.5665402+01:00" finish="2018-07-28T23:35:19.8205548+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="6" executed="6" passed="2" error="0" failed="4" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TMInputArraynotnull" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="83ce80bc-b14c-faaa-c9c6-345e2e1a6192">
+      <Execution id="82cdb5a1-4c4b-48d5-983c-9361aadfe421" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputArraynotnull" />
+    </UnitTest>
+    <UnitTest name="TMInputcase4" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="ae6b1e59-92de-6629-21e0-300752823fd1">
+      <Execution id="f33d5b16-11cf-499c-92eb-590c828be523" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase4" />
+    </UnitTest>
+    <UnitTest name="TMInputcase2" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="713c4d8a-beb7-f211-7571-3713984001be">
+      <Execution id="4fd324fc-30f3-4c0f-b5a0-0c31579970d8" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase2" />
+    </UnitTest>
+    <UnitTest name="TMInputcase3" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="d8b9b00f-2344-76c1-605a-33a419e9fa79">
+      <Execution id="0be8e943-6358-40cb-8cbe-f8fda79cf95b" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase3" />
+    </UnitTest>
+    <UnitTest name="TMInputElementsnull" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="d347be75-2d9f-a4de-2c0e-4ae3a5eb80cd">
+      <Execution id="158f2a28-e877-4c97-a003-3455150dd9a1" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputElementsnull" />
+    </UnitTest>
+    <UnitTest name="TMInputcase1" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="724b8573-2358-fcfd-f0bb-a2f460d6d87f">
+      <Execution id="0cae2035-5742-4dcd-b93d-283c120991bb" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="713c4d8a-beb7-f211-7571-3713984001be" executionId="4fd324fc-30f3-4c0f-b5a0-0c31579970d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="724b8573-2358-fcfd-f0bb-a2f460d6d87f" executionId="0cae2035-5742-4dcd-b93d-283c120991bb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83ce80bc-b14c-faaa-c9c6-345e2e1a6192" executionId="82cdb5a1-4c4b-48d5-983c-9361aadfe421" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae6b1e59-92de-6629-21e0-300752823fd1" executionId="f33d5b16-11cf-499c-92eb-590c828be523" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d347be75-2d9f-a4de-2c0e-4ae3a5eb80cd" executionId="158f2a28-e877-4c97-a003-3455150dd9a1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8b9b00f-2344-76c1-605a-33a419e9fa79" executionId="0be8e943-6358-40cb-8cbe-f8fda79cf95b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4fd324fc-30f3-4c0f-b5a0-0c31579970d8" testId="713c4d8a-beb7-f211-7571-3713984001be" testName="TMInputcase2" computerName="HOME" duration="00:00:00.0354027" startTime="2018-07-28T23:35:19.5685404+01:00" endTime="2018-07-28T23:35:19.7715520+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4fd324fc-30f3-4c0f-b5a0-0c31579970d8">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject01.Cls01Testes.TMInputcase2 threw exception: 
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: source</Message>
+          <StackTrace>    em System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   em csT.Cls01.TMInputArray(Int32[] InputDados, Int32 k) na c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\Cls01.cs:linha 35
+   em TestProject01.Cls01Testes.TMInputcase2() na c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\Cls01Testes.cs:linha 44
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0cae2035-5742-4dcd-b93d-283c120991bb" testId="724b8573-2358-fcfd-f0bb-a2f460d6d87f" testName="TMInputcase1" computerName="HOME" duration="00:00:00.0018655" startTime="2018-07-28T23:35:19.7725520+01:00" endTime="2018-07-28T23:35:19.7795524+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0cae2035-5742-4dcd-b93d-283c120991bb">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject01.Cls01Testes.TMInputcase1 threw exception: 
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: source</Message>
+          <StackTrace>    em System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   em csT.Cls01.TMInputArray(Int32[] InputDados, Int32 k) na c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\Cls01.cs:linha 35
+   em TestProject01.Cls01Testes.TMInputcase1() na c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\Cls01Testes.cs:linha 37
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="82cdb5a1-4c4b-48d5-983c-9361aadfe421" testId="83ce80bc-b14c-faaa-c9c6-345e2e1a6192" testName="TMInputArraynotnull" computerName="HOME" duration="00:00:00.0008740" startTime="2018-07-28T23:35:19.7795524+01:00" endTime="2018-07-28T23:35:19.7845527+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="82cdb5a1-4c4b-48d5-983c-9361aadfe421">
+    </UnitTestResult>
+    <UnitTestResult executionId="f33d5b16-11cf-499c-92eb-590c828be523" testId="ae6b1e59-92de-6629-21e0-300752823fd1" testName="TMInputcase4" computerName="HOME" duration="00:00:00.0018655" startTime="2018-07-28T23:35:19.7865528+01:00" endTime="2018-07-28T23:35:19.7915531+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f33d5b16-11cf-499c-92eb-590c828be523">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject01.Cls01Testes.TMInputcase4 threw exception: 
+System.IndexOutOfRangeException: O índice estava fora dos limites da matriz.</Message>
+          <StackTrace>    em csT.Cls01.TMInputArray(Int32[] InputDados, Int32 k) na c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\Cls01.cs:linha 37
+   em TestProject01.Cls01Testes.TMInputcase4() na c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\Cls01Testes.cs:linha 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="158f2a28-e877-4c97-a003-3455150dd9a1" testId="d347be75-2d9f-a4de-2c0e-4ae3a5eb80cd" testName="TMInputElementsnull" computerName="HOME" duration="00:00:00.0006169" startTime="2018-07-28T23:35:19.7935532+01:00" endTime="2018-07-28T23:35:19.7975535+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="158f2a28-e877-4c97-a003-3455150dd9a1">
+    </UnitTestResult>
+    <UnitTestResult executionId="0be8e943-6358-40cb-8cbe-f8fda79cf95b" testId="d8b9b00f-2344-76c1-605a-33a419e9fa79" testName="TMInputcase3" computerName="HOME" duration="00:00:00.0025452" startTime="2018-07-28T23:35:19.7985535+01:00" endTime="2018-07-28T23:35:19.8055539+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0be8e943-6358-40cb-8cbe-f8fda79cf95b">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject01.Cls01Testes.TMInputcase3 threw exception: 
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: source</Message>
+          <StackTrace>    em System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   em csT.Cls01.TMInputArray(Int32[] InputDados, Int32 k) na c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\Cls01.cs:linha 35
+   em TestProject01.Cls01Testes.TMInputcase3() na c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\Cls01Testes.cs:linha 50
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

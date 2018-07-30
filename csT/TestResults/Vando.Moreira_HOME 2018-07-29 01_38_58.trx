@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9b119a13-218a-4e72-b631-d618d3ca03ed" name="Vando.Moreira@HOME 2018-07-29 01:38:58" runUser="Home\Vando.Moreira" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5e1a744f-c084-4377-9e89-f7d931b07561">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Vando.Moreira_HOME 2018-07-29 01_38_58">
+      <DeploymentItem filename="c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\bin\Debug\csT.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-07-29T01:38:58.4338752+01:00" queuing="2018-07-29T01:38:58.4488760+01:00" start="2018-07-29T01:38:58.4758776+01:00" finish="2018-07-29T01:38:58.7348924+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TMInputArraynotnull" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="83ce80bc-b14c-faaa-c9c6-345e2e1a6192">
+      <Execution id="8b3e29c5-01fe-412c-b314-b2a50f9d5b6c" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputArraynotnull" />
+    </UnitTest>
+    <UnitTest name="TMInputcase4" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="ae6b1e59-92de-6629-21e0-300752823fd1">
+      <Execution id="4122d905-b6d7-4bc5-a371-9204755d29ea" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase4" />
+    </UnitTest>
+    <UnitTest name="TMInputcase2" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="713c4d8a-beb7-f211-7571-3713984001be">
+      <Execution id="ce0b9a5c-efc2-4820-9324-6c086d335cec" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase2" />
+    </UnitTest>
+    <UnitTest name="TMInputcase6" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="2bf5c5d5-ff28-2d66-4ebc-96e33a74ab18">
+      <Execution id="4c31da11-e325-4ceb-a184-26ef949bd593" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase6" />
+    </UnitTest>
+    <UnitTest name="TMInputcase3" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="d8b9b00f-2344-76c1-605a-33a419e9fa79">
+      <Execution id="bcf55ecd-e2de-46b2-a7d1-c1062ef02c31" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase3" />
+    </UnitTest>
+    <UnitTest name="TMInputcase7" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="72a9ca56-9695-facb-4b24-9cf38dbbe024">
+      <Execution id="34c6c7a4-1d73-48d8-badf-76e92ade5c75" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase7" />
+    </UnitTest>
+    <UnitTest name="TMInputcase1" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="724b8573-2358-fcfd-f0bb-a2f460d6d87f">
+      <Execution id="25b401f6-d700-4eab-be56-765ea7f930f8" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputcase1" />
+    </UnitTest>
+    <UnitTest name="TMInputElementsnull" storage="c:\users\vando.moreira\documents\visual studio 2010\projects\cst\testproject01\bin\debug\testproject01.dll" id="d347be75-2d9f-a4de-2c0e-4ae3a5eb80cd">
+      <Execution id="8b18a6b4-d0df-40d3-9c22-2f931b268fe5" />
+      <TestMethod codeBase="c:/users/vando.moreira/documents/visual studio 2010/Projects/csT/TestProject01/bin/Debug/TestProject01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject01.Cls01Testes, TestProject01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TMInputElementsnull" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2bf5c5d5-ff28-2d66-4ebc-96e33a74ab18" executionId="4c31da11-e325-4ceb-a184-26ef949bd593" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="713c4d8a-beb7-f211-7571-3713984001be" executionId="ce0b9a5c-efc2-4820-9324-6c086d335cec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="724b8573-2358-fcfd-f0bb-a2f460d6d87f" executionId="25b401f6-d700-4eab-be56-765ea7f930f8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="72a9ca56-9695-facb-4b24-9cf38dbbe024" executionId="34c6c7a4-1d73-48d8-badf-76e92ade5c75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83ce80bc-b14c-faaa-c9c6-345e2e1a6192" executionId="8b3e29c5-01fe-412c-b314-b2a50f9d5b6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae6b1e59-92de-6629-21e0-300752823fd1" executionId="4122d905-b6d7-4bc5-a371-9204755d29ea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d347be75-2d9f-a4de-2c0e-4ae3a5eb80cd" executionId="8b18a6b4-d0df-40d3-9c22-2f931b268fe5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8b9b00f-2344-76c1-605a-33a419e9fa79" executionId="bcf55ecd-e2de-46b2-a7d1-c1062ef02c31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4c31da11-e325-4ceb-a184-26ef949bd593" testId="2bf5c5d5-ff28-2d66-4ebc-96e33a74ab18" testName="TMInputcase6" computerName="HOME" duration="00:00:00.0160957" startTime="2018-07-29T01:38:58.4808779+01:00" endTime="2018-07-29T01:38:58.6738889+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c31da11-e325-4ceb-a184-26ef949bd593">
+    </UnitTestResult>
+    <UnitTestResult executionId="ce0b9a5c-efc2-4820-9324-6c086d335cec" testId="713c4d8a-beb7-f211-7571-3713984001be" testName="TMInputcase2" computerName="HOME" duration="00:00:00.0003232" startTime="2018-07-29T01:38:58.6748890+01:00" endTime="2018-07-29T01:38:58.6808893+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce0b9a5c-efc2-4820-9324-6c086d335cec">
+    </UnitTestResult>
+    <UnitTestResult executionId="25b401f6-d700-4eab-be56-765ea7f930f8" testId="724b8573-2358-fcfd-f0bb-a2f460d6d87f" testName="TMInputcase1" computerName="HOME" duration="00:00:00.0002274" startTime="2018-07-29T01:38:58.6828894+01:00" endTime="2018-07-29T01:38:58.6878897+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="25b401f6-d700-4eab-be56-765ea7f930f8">
+    </UnitTestResult>
+    <UnitTestResult executionId="34c6c7a4-1d73-48d8-badf-76e92ade5c75" testId="72a9ca56-9695-facb-4b24-9cf38dbbe024" testName="TMInputcase7" computerName="HOME" duration="00:00:00.0001921" startTime="2018-07-29T01:38:58.6898898+01:00" endTime="2018-07-29T01:38:58.6938901+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="34c6c7a4-1d73-48d8-badf-76e92ade5c75">
+    </UnitTestResult>
+    <UnitTestResult executionId="8b3e29c5-01fe-412c-b314-b2a50f9d5b6c" testId="83ce80bc-b14c-faaa-c9c6-345e2e1a6192" testName="TMInputArraynotnull" computerName="HOME" duration="00:00:00.0024323" startTime="2018-07-29T01:38:58.6938901+01:00" endTime="2018-07-29T01:38:58.6998904+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b3e29c5-01fe-412c-b314-b2a50f9d5b6c">
+    </UnitTestResult>
+    <UnitTestResult executionId="4122d905-b6d7-4bc5-a371-9204755d29ea" testId="ae6b1e59-92de-6629-21e0-300752823fd1" testName="TMInputcase4" computerName="HOME" duration="00:00:00.0002223" startTime="2018-07-29T01:38:58.7008905+01:00" endTime="2018-07-29T01:38:58.7048907+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4122d905-b6d7-4bc5-a371-9204755d29ea">
+    </UnitTestResult>
+    <UnitTestResult executionId="8b18a6b4-d0df-40d3-9c22-2f931b268fe5" testId="d347be75-2d9f-a4de-2c0e-4ae3a5eb80cd" testName="TMInputElementsnull" computerName="HOME" duration="00:00:00.0006226" startTime="2018-07-29T01:38:58.7058907+01:00" endTime="2018-07-29T01:38:58.7098910+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b18a6b4-d0df-40d3-9c22-2f931b268fe5">
+    </UnitTestResult>
+    <UnitTestResult executionId="bcf55ecd-e2de-46b2-a7d1-c1062ef02c31" testId="d8b9b00f-2344-76c1-605a-33a419e9fa79" testName="TMInputcase3" computerName="HOME" duration="00:00:00.0002366" startTime="2018-07-29T01:38:58.7108910+01:00" endTime="2018-07-29T01:38:58.7148913+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bcf55ecd-e2de-46b2-a7d1-c1062ef02c31">
+    </UnitTestResult>
+  </Results>
+</TestRun>

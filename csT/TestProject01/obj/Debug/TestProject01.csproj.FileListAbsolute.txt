@@ -1,0 +1,7 @@
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\bin\Debug\TestProject01.dll
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\bin\Debug\TestProject01.pdb
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\bin\Debug\csT.exe
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\bin\Debug\csT.pdb
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\obj\Debug\TestProject01.csprojResolveAssemblyReference.cache
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\obj\Debug\TestProject01.dll
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\obj\Debug\TestProject01.pdb

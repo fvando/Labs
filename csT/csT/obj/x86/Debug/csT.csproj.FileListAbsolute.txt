@@ -1,0 +1,4 @@
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\bin\Debug\csT.exe
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\bin\Debug\csT.pdb
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\obj\x86\Debug\csT.exe
+c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\obj\x86\Debug\csT.pdb
