@@ -12,6 +12,7 @@ namespace csT
         {
 
             string Output = string.Empty;
+            
             List<string> Output2 = new List<string>();
 
             for (int i = 0; i < InputDados.Count() - 1; i++)
@@ -29,20 +30,20 @@ namespace csT
                 }
             }
 
-            //Output2.Reverse();
+            Output2.Reverse();
 
-            //foreach (var item in Output2)
-            //{
-            //    if (Output == "")
-            //    {
-            //        Output = item;
-            //    }
-            //    else
-            //    {
-            //        Output += "," + item;
-            //    }
+            foreach (var item in Output2)
+            {
+                if (Output == "")
+                {
+                    Output = item;
+                }
+                else
+                {
+                    Output += "," + item;
+                }
 
-            //}
+            }
 
             return Output;
         }
