@@ -57,13 +57,13 @@ namespace TestProject01
         }
 
         [TestMethod]
-        public void TMInputcase6()
+        public void TMInputcase5()
         {
             Assert.AreEqual(OMacTeste.TMInputArray(new int[] { 0 }, 9), "", "");
         }
 
         [TestMethod]
-        public void TMInputcase7()
+        public void TMInputcase6()
         {
             Assert.AreEqual(OMacTeste.TMInputArray(new int[] { 0 }, 0), "", "");
         }
