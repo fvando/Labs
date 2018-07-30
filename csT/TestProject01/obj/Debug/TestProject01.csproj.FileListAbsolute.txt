@@ -5,3 +5,10 @@ c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\b
 c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\obj\Debug\TestProject01.csprojResolveAssemblyReference.cache
 c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\obj\Debug\TestProject01.dll
 c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\TestProject01\obj\Debug\TestProject01.pdb
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\TestProject01\bin\Debug\TestProject01.dll
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\TestProject01\bin\Debug\TestProject01.pdb
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\TestProject01\bin\Debug\csT.exe
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\TestProject01\bin\Debug\csT.pdb
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\TestProject01\obj\Debug\TestProject01.csprojResolveAssemblyReference.cache
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\TestProject01\obj\Debug\TestProject01.dll
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\TestProject01\obj\Debug\TestProject01.pdb

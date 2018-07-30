@@ -27,27 +27,27 @@ namespace TestProject01
         [ExpectedException(typeof(ArgumentNullException))]
         public void TMInputArraynotnull()
         {
-            throw new ArgumentNullException("Array não pode ser nulo!");
+            throw new ArgumentNullException("Array can not be null!");
         }
 
 
         [TestMethod]
         public void TMInputcase1()
         {
-            Assert.AreEqual(OMacTeste.TMInputArray(new int[] {1,2}, 9), "", "Não existe elementos representando o k");
+            Assert.AreEqual(OMacTeste.TMInputArray(new int[] { 1, 2 }, 9), "", "There are no elements representing k");
         }
 
 
         [TestMethod]
         public void TMInputcase2()
         {
-            Assert.AreEqual(OMacTeste.TMInputArray(new int[] { 3, 3, 2 }, 9), "", "Não existe elementos representando o k");
+            Assert.AreEqual(OMacTeste.TMInputArray(new int[] { 3, 3, 2 }, 9), "", "There are no elements representing k");
         }
 
         [TestMethod]
         public void TMInputcase3()
         {
-            Assert.AreEqual(OMacTeste.TMInputArray(new int[] { 3, 2 }, 9), "", "Não existe elementos representando o k");
+            Assert.AreEqual(OMacTeste.TMInputArray(new int[] { 3, 2 }, 9), "", "There are no elements representing k");
         }
 
         [TestMethod]

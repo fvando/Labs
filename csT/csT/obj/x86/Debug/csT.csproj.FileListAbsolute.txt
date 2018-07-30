@@ -4,3 +4,5 @@ c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\obj\x86\Deb
 c:\users\vando.moreira\documents\visual studio 2010\Projects\csT\csT\obj\x86\Debug\csT.pdb
 C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\csT\obj\x86\Debug\csT.exe
 C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\csT\obj\x86\Debug\csT.pdb
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\csT\bin\Debug\csT.exe
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\Labs\csT\csT\bin\Debug\csT.pdb
